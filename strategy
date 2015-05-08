@@ -1,0 +1,15 @@
+Create a graph
+ 1)add nodes
+ 2)add edges with weights
+ 3)add energy list for nodes
+
+2)Code the algorithm
+3)Run the code
+
+4)develop various test cases 
+5)See about energy dissemination
+6)First order radio model
+   
+ 
+Hitch :  Compute h(N,R) initally itself for all nodes and store in a data structure
+Each time you want to transmit check if the neighbour is alive or not if you find a minima  
